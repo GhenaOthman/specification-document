@@ -16,6 +16,7 @@ Clicking on one of the list records will open the user information filled in the
 
 Clicking New User will open a dialog form named “New User” on the right side of the screen.
 The form must have the following  fields in the next order
+
 •	Save User Button - disabled
 
 •	Username - text, mandatory 
@@ -30,6 +31,10 @@ The form must have the following  fields in the next order
 
 •	enabled - Checkbox 
 
+•The “save user” Button is disabled unless all the fields are duly filled. 
+
+•The form name should change once the user clicks on a record from the list 
+Clicking the “save user” button will insert the user information into the list 
 
 ## Validation
 
@@ -39,7 +44,4 @@ The form must have the following  fields in the next order
 
 
 
-The “save user” Button is disabled unless all the fields are duly filled. 
 
-The form name should change once the user clicks on a record from the list 
-Clicking the “save user” button will insert the user information into the list
